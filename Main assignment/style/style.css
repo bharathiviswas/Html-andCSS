@@ -1,0 +1,139 @@
+
+.two{
+  padding: 15px;
+  background-image: url();
+  height:fit-content;
+  
+  
+}
+.one{
+    position:fixed;
+}
+#vector{
+    position: absolute;
+    bottom: 10px;
+    right:15px;
+}
+#id1{
+    width:600px;
+    float:left;
+    margin-right: 100px;
+ 
+}
+#id2{
+    border: 1px solid transparent;
+    width:600px;
+    float:left;
+    margin-right: 50px;
+    background-color: snow;
+
+    
+}
+
+#id3{
+    text-align: center;
+
+}
+input{
+    width:300Px;
+    height: 30px;
+}
+.float{
+    clear:left;
+}
+h1{
+    text-align: center;
+}
+.three{
+    width: 30%;
+    float: left;
+
+}
+.all{
+    width: 1500Px;
+    margin:0 auto;
+    
+}
+.para{
+    width: 30%;
+    float: left;
+  
+}
+.para{
+    border: 2px solid black;
+    min-width: 30px;
+    max-height: 70%;
+    padding:10px;
+    margin-right:10px ;
+}
+.four{
+    text-align: center;
+}
+.five{
+    width:100%;
+
+}
+.para1{
+    float:left;
+    margin-left: 4px;
+    width:30%;
+    text-align: center;
+}
+.para2{
+    float:left;
+    margin-left: 4px;
+    width:22%;
+}
+.six{
+    text-align: center;
+}
+#six{
+    color: #FF6D34;
+    font: 14px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#icon{
+    font-size: small;
+}
+
+.two{
+    text-align: center;
+}
+#id1{
+    text-align: left;
+}
+#id3{
+    background-color:#FF6D34 ;
+}
+#check{
+    width:15px;
+}
+
+#color1{
+    color:#FF6D34  ;
+}
+#get{
+    color:#FF6D34  ;
+}
+#chat{
+    position: fixed;
+    bottom:0;
+    right:0;
+    
+}
+ul{
+    background-color:skyblue;
+}
+.one{
+    
+}
+li{
+    display:inline-block;
+    height:50px;
+    padding: 2px;
+    line-height: 50px;
+}
+li:hover{
+    display:inline-block;
+    color: tomato;
+}
